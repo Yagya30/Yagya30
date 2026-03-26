@@ -8,9 +8,9 @@
 
 ## About Me
 
-💻 Full-stack developer in progress  
-🚀 Currently building projects to improve my development skills  
-🎮 Interested in games, technology, and useful web applications  
+Full-stack developer in progress  
+Currently building projects to improve my development skills  
+Interested in games, technology, and useful web applications  
 
 Currently focusing on:
 
@@ -33,16 +33,16 @@ Currently focusing on:
 
 | Project | Description | Link |
 |-------|-------------|------|
-| 🎮 Game Backlog Tracker | Track games you want to play or have completed | https://github.com/Ygylt/game-backlog |
-| ⚽ Footy Predictor | Football prediction mini-league system | https://github.com/Ygylt/footy-predictor |
+| Game Backlog Tracker | Track games you want to play or have completed | https://github.com/Yagya30/game-backlog |
+| Footy Predictor | Football prediction mini-league system | https://github.com/Yagya30/footy-predictor |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ygylt&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ygylt&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yagya30&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagya30&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@ Currently focusing on:
 ## Activity
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Ygylt&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Yagya30&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
