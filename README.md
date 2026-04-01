@@ -29,6 +29,15 @@ Currently focusing on:
 
 ---
 
+## Currently Building
+
+| Project | Description | Link |
+|---------|-------------|------|
+| DevLog | Smart dev journal and project tracker | https://github.com/Ygylt/devlog |
+| CricketScope | Cricket analytics dashboard with data pipeline | https://github.com/Ygylt/cricketscope |
+
+---
+
 ## Featured Projects
 
 | Project | Description | Link |
