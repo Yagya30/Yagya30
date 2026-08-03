@@ -1,7 +1,7 @@
 # Hi, I'm Yagya
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+in+Progress;Building+Projects+and+Learning+Everyday;React+%7C+Node.js+%7C+MongoDB&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+in+Progress;Building+Projects+and+Learning+Everyday;React+%7C+Node.js+%7C+MongoDB&center=true&width=500&height=45">
 </p>
 
 ---
