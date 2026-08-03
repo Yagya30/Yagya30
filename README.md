@@ -34,7 +34,6 @@ Currently focusing on:
 | Project | Description | Link |
 |---------|-------------|------|
 | DevLog | Smart dev journal and project tracker | https://github.com/Ygylt/devlog |
-| CricketScope | Cricket analytics dashboard with data pipeline | https://github.com/Ygylt/cricketscope |
 
 ---
 
@@ -44,6 +43,7 @@ Currently focusing on:
 |-------|-------------|------|
 | Game Backlog Tracker | Track games you want to play or have completed | https://github.com/Ygylt/game-backlog |
 | Footy Predictor | Football prediction mini-league system | https://github.com/Ygylt/footy-predictor |
+| CricketScope | Cricket analytics dashboard with data pipeline | https://github.com/Ygylt/cricketscope |
 
 ---
 
